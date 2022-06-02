@@ -1,0 +1,1 @@
+En este repositorio se muestran los sensores más sencillos que se pueden programar en Arduino, además se muestran sus montajes para una mayor facilidad.
