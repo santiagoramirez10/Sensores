@@ -1,0 +1,1 @@
+En este proyecto se realiza la programación en la placa Arduino UNO de un suiche 520D, un sensor de inclinación que envía una señal de alerta por el monitor serie y que hace que 1 LED encienda cuando detecta una inclinación sin simportar el grado de esta.
